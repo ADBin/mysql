@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\bin\Debug\C6_2.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\bin\Debug\C6_2.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\bin\Debug\C6_2.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\bin\Debug\MySql.Data.dll
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\C6_2\C6_2\obj\Debug\C6_2.Form1.resources
